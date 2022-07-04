@@ -1,0 +1,5 @@
+Variable = una variable es una palabra clave que te permite asignarle o guardarle un valor.
+String= Una string es una agrupacion de letras o numero pero siempre tienen que estar dentro de comillas " ", ''
+Funciones= una funcion te permite guardar codigo para que no repitas el mismo codigo varais veces
+Declaraciones=permite declarar que hacer con los variable o funciones
+Valores Booleanos=un booleano es un codigo que puede terminar en True o False
